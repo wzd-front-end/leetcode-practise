@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-practise",
+  "version": "1.0.0",
+  "description": "the library of learing leetcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzd-front-end/leetcode-practise.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "wuzhida <429023964@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzd-front-end/leetcode-practise/issues"
+  },
+  "homepage": "https://github.com/wzd-front-end/leetcode-practise#readme"
+}
