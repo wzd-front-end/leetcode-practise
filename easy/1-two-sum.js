@@ -26,5 +26,16 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-
+  var hashTable = {}
+  for(let i = 0; i < nums.length; i++){
+    let complement = target - nums[i]
+  
+    if(hashTable[complement] !== undefined){
+      return [hashTable[complement], i]
+    } else{
+      hashTable[nums[i]] = i
+    }
+  }
+  return []
 };
+twoSum([2, 7, 11, 15], 9)
