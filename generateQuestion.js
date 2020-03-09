@@ -140,9 +140,7 @@ function getCodeSnippets(codeSnippets){
   }
 }
 
-function formatDate(dateStr, template) { 
-  let f = template ? template : 'yyyy-MM-dd hh:mm'
-
+function formatDate(dateStr, f = 'yyyy-MM-dd hh:mm') { 
   let weekList = ['周日', '周一', '周二', '周三', '周四', '周五', '周六']
   let _date = new Date(Number(dateStr))
 
