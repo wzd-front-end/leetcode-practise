@@ -109,7 +109,7 @@ function generateSubject(subjectInfos) {
     content += `\n**${levelMap[level]}(${level})**[${subjectInfos[level].length}]\n`
     subjectInfos[level].forEach((s) => {
       content += 
-      `- ${s.orderNums}.${s.name} ${s.tags.length > 0 ? `【${s.tags.join('|')}】` : ''}——[查看代码](https://github.com/wzd-front-end/leetcode-practise/${s.level}/${s.fileName}) [查看原题](${s.url})\n`
+      `- ${s.orderNums}.${s.name} ${s.tags.length > 0 ? `【${s.tags.join('|')}】` : ''}——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master${s.level}/${s.fileName}) [查看原题](${s.url})\n`
     })
   })
   content = `已刷题目总数：${count}\n${content}`
@@ -140,7 +140,7 @@ function generateRecord(subjectInfos) {
 
     dataObj[key].sort((a, b) => a.timeStamp - b.timeStamp)
     dataObj[key].forEach((s, index) => {
-      content += `${index + 1}.${s.time}——[${s.orderNums}.${s.name}](https://github.com/wzd-front-end/leetcode-practise/${s.level}/${s.fileName})(${s.level})\n`
+      content += `${index + 1}.${s.time}——[${s.orderNums}.${s.name}](https://github.com/wzd-front-end/leetcode-practise/blob/master/${s.level}/${s.fileName})(${s.level})\n`
     })
   })
   return content
