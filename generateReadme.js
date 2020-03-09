@@ -46,7 +46,7 @@ function ergodicFiles(pathStr){
       fileType: fileName.match(/\.(\w+)$/)[1],
       date: date,
       time: time,
-      timeStamp: stats.birthtimeMs ,
+      timeStamp: stats.birthtimeMs,
       level: ''
     }
 
@@ -109,7 +109,7 @@ function generateSubject(subjectInfos) {
     content += `\n**${levelMap[level]}(${level})**[${subjectInfos[level].length}]\n`
     subjectInfos[level].forEach((s) => {
       content += 
-      `- ${s.orderNums}.${s.name} ${s.tags.length > 0 ? `【${s.tags.join('|')}】` : ''}——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master${s.level}/${s.fileName}) [查看原题](${s.url})\n`
+      `- ${s.orderNums}.${s.name} ${s.tags.length > 0 ? `【${s.tags.join('|')}】` : ''}——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/${level}/${s.fileName}) [查看原题](${s.url})\n`
     })
   })
   content = `已刷题目总数：${count}\n${content}`
