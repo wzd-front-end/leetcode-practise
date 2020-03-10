@@ -7,6 +7,7 @@
 
 **简单(easy)**[2]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
+
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 
 **中等(medium)**[1]
