@@ -140,7 +140,7 @@ function generateRecord(subjectInfos) {
 
     dataObj[key].sort((a, b) => a.timeStamp - b.timeStamp)
     dataObj[key].forEach((s, index) => {
-      content += `${index + 1}.${s.time}——[${s.orderNums}.${s.name}](https://github.com/wzd-front-end/leetcode-practise/blob/master/${s.level}/${s.fileName})(${s.level})\n`
+      content += `${index + 1}.${s.time}——[${s.orderNums}.${s.name}](https://github.com/wzd-front-end/leetcode-practise/blob/master/${s.level}/${s.fileName})(${s.level})\n\n`
     })
   })
   return content
