@@ -35,7 +35,6 @@ function ergodicFiles(pathStr){
     let filePath = path.resolve(pathStr, fileName)
     let content = fs.readFileSync(filePath, {encoding: 'utf-8'})
     let stats = fs.statSync(filePath)
-    let [date, time] = formatDate(stats.birthtimeMs).split(' ')
 
     let fileInfos = {
       fileName: fileName,
@@ -44,15 +43,19 @@ function ergodicFiles(pathStr){
       tags: [],
       orderNums: fileName.match(/^\d+/)[0],
       fileType: fileName.match(/\.(\w+)$/)[1],
-      date: date,
-      time: time,
+      date: '',
+      time: '',
       timeStamp: stats.birthtimeMs,
       level: ''
     }
 
     if(/@url\s*([^\n]+)/.test(content)) fileInfos.url = RegExp.$1
+    if(/@date\s*([^\n]+)/.test(content)) fileInfos.timeStamp = new Date(RegExp.$1).getTime()
     if(/@name\s*([^\n]+)/.test(content)) fileInfos.name = RegExp.$1
-    if(/@tags\s*([^\n]+)/.test(content)) fileInfos.tags = RegExp.$1.split('、')    
+    if(/@tags\s*([^\n]+)/.test(content)) fileInfos.tags = RegExp.$1.split('、') 
+    let [date, time] = formatDate(fileInfos.timeStamp).split(' ')
+    fileInfos.date = date
+    fileInfos.time = time
 
     result.push(fileInfos)
   })

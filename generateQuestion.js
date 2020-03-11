@@ -121,6 +121,7 @@ function formatHtml(str) {
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&amp;/g, '&')
+    .replace(/&minus;/g, '-')
     .replace(/&times;/g, '×')
     .replace(/&divide;/g, '÷')
     .replace(/\n/g, '\n * ')
