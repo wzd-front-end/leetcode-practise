@@ -35,22 +35,25 @@ var longestPalindrome = function(s) {
     let len1 = expandAroundCenter(s, i, i)
     let len2 = expandAroundCenter(s, i, i + 1)
     let len = Math.max(len1, len2)
-    console.log(len)
-    // if(len > end -start) {
-
-    //   start = i - (len - 1)/2
-    //   end = i + (len)/2
-    // }
+  
+    if(len > end -start) {
+      console.log(i)
+      console.log(len)
+      start = i - parseInt((len - 1)/2)
+      end = i + parseInt(len/2)
+    }
   }
+  console.log(start)
+  console.log(end)
   return s.substring(start, end + 1)
-};
+};  
 function expandAroundCenter(s, left, right) {
   let L = left
   let R = right
-  while(L >= 0 && R < s.length && s.charAt(left) === s.charAt(right)) {
+  while(L >= 0 && R < s.length && s.charAt(L) === s.charAt(R)) {
     L--
     R++
   }
   return R - L - 1
 }
-console.log(longestPalindrome('babad'))
+console.log(longestPalindrome('cbbd'))
