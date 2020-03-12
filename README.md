@@ -3,13 +3,14 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：10
+已刷题目总数：11
 
-**简单(easy)**[4]
+**简单(easy)**[5]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+- 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 
 **中等(medium)**[5]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
@@ -24,9 +25,11 @@
 
 ## 日期进度
 
-### 2020-03-12【题目数：1】
+### 2020-03-12【题目数：2】
 
 1.09:28——[9.回文数](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js)(easy)
+
+2.17:06——[1146.字符串的最大公因子](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js)(easy)
 
 
 ### 2020-03-11【题目数：3】
