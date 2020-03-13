@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：13
+已刷题目总数：14
 
 **简单(easy)**[6]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -13,13 +13,14 @@
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 
-**中等(medium)**[6]
+**中等(medium)**[7]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - 6.Z 字形变换 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/6-zigzag-conversion.js) [查看原题](https://leetcode-cn.com/problems/zigzag-conversion/)
 - 8.字符串转换整数 (atoi) 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/8-string-to-integer-atoi.js) [查看原题](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 - 56.合并区间 【排序|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
+- 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 **困难(hard)**[1]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
@@ -27,9 +28,11 @@
 
 ## 日期进度
 
-### 2020-03-13【题目数：1】
+### 2020-03-13【题目数：2】
 
 1.10:27——[169.多数元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js)(easy)
+
+2.11:17——[300.最长上升子序列](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js)(medium)
 
 
 ### 2020-03-12【题目数：3】
