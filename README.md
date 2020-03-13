@@ -3,12 +3,13 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：14
+已刷题目总数：15
 
-**简单(easy)**[6]
+**简单(easy)**[7]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
+- 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
@@ -28,11 +29,13 @@
 
 ## 日期进度
 
-### 2020-03-13【题目数：2】
+### 2020-03-13【题目数：3】
 
 1.10:27——[169.多数元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js)(easy)
 
 2.11:17——[300.最长上升子序列](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js)(medium)
+
+3.18:32——[70.爬楼梯](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js)(easy)
 
 
 ### 2020-03-12【题目数：3】
