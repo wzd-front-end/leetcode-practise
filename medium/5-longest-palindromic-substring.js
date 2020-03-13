@@ -43,8 +43,6 @@ var longestPalindrome = function(s) {
       end = i + parseInt(len/2)
     }
   }
-  console.log(start)
-  console.log(end)
   return s.substring(start, end + 1)
 };  
 function expandAroundCenter(s, left, right) {
@@ -56,4 +54,3 @@ function expandAroundCenter(s, left, right) {
   }
   return R - L - 1
 }
-console.log(longestPalindrome('cbbd'))

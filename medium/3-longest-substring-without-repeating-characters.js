@@ -50,5 +50,3 @@ var lengthOfLongestSubstring = function(s) {
   }
   return max
 };
-
-console.log(lengthOfLongestSubstring('abcabcbb'))
