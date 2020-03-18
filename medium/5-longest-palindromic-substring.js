@@ -37,8 +37,6 @@ var longestPalindrome = function(s) {
     let len = Math.max(len1, len2)
   
     if(len > end -start) {
-      console.log(i)
-      console.log(len)
       start = i - parseInt((len - 1)/2)
       end = i + parseInt(len/2)
     }

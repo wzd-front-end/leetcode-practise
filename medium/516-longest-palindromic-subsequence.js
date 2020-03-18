@@ -57,6 +57,7 @@ var longestPalindromeSubseq = function(s) {
     dp[len] = temp
   }
 
+  // len为抽取片段检查回文
   for(len = 2; len <= n; len++) {
     for(let i = 0; i < n -len + 1; i++){
       let j = i + len - 1

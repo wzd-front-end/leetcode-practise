@@ -41,15 +41,15 @@
  * 33.8MB  63.66%
  */
 var climbStairs = function(n) {
-    let val = []
+  let val = []
   if(n === 1 || n === 2){
     return n
   } else {
     val[1] = 1
     val[2] = 2
     for(let i = 3; i <= n; i++){
-        val[i] = val[i - 1] + val[i - 2]
+      val[i] = val[i - 1] + val[i - 2]
     }
-    return val[]
+    return val[n]
   }
 };
