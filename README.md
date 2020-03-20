@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：23
+已刷题目总数：24
 
-**简单(easy)**[13]
+**简单(easy)**[14]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -19,6 +19,7 @@
 - 1112.拼写单词 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1112-find-words-that-can-be-formed-by-characters.js) [查看原题](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 - 100161.字符串压缩 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100161-compress-string-lcci.js) [查看原题](https://leetcode-cn.com/problems/compress-string-lcci/)
+- 100301.最小的k个数 【堆|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
 **中等(medium)**[9]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
@@ -36,6 +37,11 @@
 
 
 ## 日期进度
+
+### 2020-03-20【题目数：1】
+
+1.09:24——[100301.最小的k个数](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js)(easy)
+
 
 ### 2020-03-19【题目数：2】
 
