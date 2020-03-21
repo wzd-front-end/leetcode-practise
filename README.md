@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：24
+已刷题目总数：25
 
 **简单(easy)**[14]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -21,12 +21,13 @@
 - 100161.字符串压缩 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100161-compress-string-lcci.js) [查看原题](https://leetcode-cn.com/problems/compress-string-lcci/)
 - 100301.最小的k个数 【堆|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
-**中等(medium)**[9]
+**中等(medium)**[10]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 - 6.Z 字形变换 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/6-zigzag-conversion.js) [查看原题](https://leetcode-cn.com/problems/zigzag-conversion/)
 - 8.字符串转换整数 (atoi) 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/8-string-to-integer-atoi.js) [查看原题](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+- 33.搜索旋转排序数组 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/33-search-in-rotated-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - 56.合并区间 【排序|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
 - 62.不同路径 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/62-unique-paths.js) [查看原题](https://leetcode-cn.com/problems/unique-paths/)
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
@@ -38,9 +39,11 @@
 
 ## 日期进度
 
-### 2020-03-20【题目数：1】
+### 2020-03-20【题目数：2】
 
 1.09:24——[100301.最小的k个数](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js)(easy)
+
+2.18:28——[33.搜索旋转排序数组](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/33-search-in-rotated-sorted-array.js)(medium)
 
 
 ### 2020-03-19【题目数：2】
