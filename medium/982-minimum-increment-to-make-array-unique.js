@@ -36,7 +36,28 @@
 /**
  * @param {number[]} A
  * @return {number}
+ * 
+ * 172ms  48.82%
+ * 40.7MB  100.0%
  */
 var minIncrementForUnique = function(A) {
+  A.sort((a, b) => a - b)
+  let ans = 0, taken = 0
+  for(let i = 1;i < A.length; i++){
+    if(A[i] === A[i - 1]){
+      taken++
+      ans -= A[i]
+    } else {
+      let give = Math.min(taken, A[i] - A[i - 1] - 1)
+      ans += give * A[i - 1] + give * (give + 1) / 2
+      taken -= give
+    }
+  }
 
+  if(A.length > 0){
+    ans += taken * (taken + 1) / 2 + A[A.length - 1] * taken
+  }
+
+  return ans
 };
+minIncrementForUnique([3,2,1,2,1,7])
