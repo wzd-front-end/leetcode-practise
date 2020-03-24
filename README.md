@@ -3,12 +3,13 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：32
+已刷题目总数：34
 
-**简单(easy)**[15]
+**简单(easy)**[17]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
+- 13.罗马数字转整数 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/13-roman-to-integer.js) [查看原题](https://leetcode-cn.com/problems/roman-to-integer/)
 - 14.最长公共前缀 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/14-longest-common-prefix.js) [查看原题](https://leetcode-cn.com/problems/longest-common-prefix/)
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
@@ -21,6 +22,7 @@
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 - 100161.字符串压缩 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100161-compress-string-lcci.js) [查看原题](https://leetcode-cn.com/problems/compress-string-lcci/)
 - 100301.最小的k个数 【堆|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+- 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
 **中等(medium)**[14]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
@@ -45,6 +47,13 @@
 
 
 ## 日期进度
+
+### 2020-03-24【题目数：2】
+
+1.09:24——[1000023.按摩师](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js)(easy)
+
+2.10:06——[13.罗马数字转整数](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/13-roman-to-integer.js)(easy)
+
 
 ### 2020-03-23【题目数：3】
 
