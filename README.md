@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：36
+已刷题目总数：37
 
-**简单(easy)**[18]
+**简单(easy)**[19]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -19,6 +19,7 @@
 - 866.矩形重叠 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/866-rectangle-overlap.js) [查看原题](https://leetcode-cn.com/problems/rectangle-overlap/)
 - 908.链表的中间结点 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/908-middle-of-the-linked-list.js) [查看原题](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 - 928.三维形体的表面积 【几何|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/928-surface-area-of-3d-shapes.js) [查看原题](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)
+- 1041.车的可用捕获量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1041-available-captures-for-rook.js) [查看原题](https://leetcode-cn.com/problems/available-captures-for-rook/)
 - 1112.拼写单词 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1112-find-words-that-can-be-formed-by-characters.js) [查看原题](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 - 100161.字符串压缩 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100161-compress-string-lcci.js) [查看原题](https://leetcode-cn.com/problems/compress-string-lcci/)
@@ -49,6 +50,11 @@
 
 
 ## 日期进度
+
+### 2020-03-26【题目数：1】
+
+1.09:35——[1041.车的可用捕获量](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1041-available-captures-for-rook.js)(easy)
+
 
 ### 2020-03-25【题目数：2】
 
