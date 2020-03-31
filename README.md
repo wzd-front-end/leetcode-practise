@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：39
+已刷题目总数：42
 
-**简单(easy)**[20]
+**简单(easy)**[21]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -25,9 +25,10 @@
 - 1146.字符串的最大公因子 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1146-greatest-common-divisor-of-strings.js) [查看原题](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 - 100161.字符串压缩 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100161-compress-string-lcci.js) [查看原题](https://leetcode-cn.com/problems/compress-string-lcci/)
 - 100301.最小的k个数 【堆|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100301-zui-xiao-de-kge-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+- 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[16]
+**中等(medium)**[18]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -43,7 +44,9 @@
 - 91.解码方法 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/91-decode-ways.js) [查看原题](https://leetcode-cn.com/problems/decode-ways/)
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
+- 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
 - 982.使数组唯一的最小增量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/982-minimum-increment-to-make-array-unique.js) [查看原题](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
+- 1117.地图分析 【广度优先搜索|图】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1117-as-far-from-land-as-possible.js) [查看原题](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 
 **困难(hard)**[3]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
@@ -52,6 +55,21 @@
 
 
 ## 日期进度
+
+### 2020-03-31【题目数：1】
+
+1.17:33——[948.排序数组](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js)(medium)
+
+
+### 2020-03-30【题目数：1】
+
+1.11:15——[100343.圆圈中最后剩下的数字](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js)(easy)
+
+
+### 2020-03-29【题目数：1】
+
+1.12:55——[1117.地图分析](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1117-as-far-from-land-as-possible.js)(medium)
+
 
 ### 2020-03-27【题目数：2】
 

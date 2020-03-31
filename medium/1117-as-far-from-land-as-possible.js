@@ -54,10 +54,6 @@ var maxDistance = function (grid) {
   let m = grid[0].length
 
   let ans = -1
-  let vis = []
-  for (let i = 0; i < 105; i++) {
-    vis.push([])
-  }
 
   for (let i = 0; i < n; i++) {
     for (let j = 0; j < m; j++) {
@@ -73,10 +69,15 @@ var maxDistance = function (grid) {
     let dx = [-1, 0, 1, 0]
     let dy = [0, 1, 0, -1]
 
-    let queue = [{ x: x, y: y, step: 0 }]
+    let queue = []
+    let vis = []
+    for (let i = 0; i < 105; i++) {
+      vis.push([])
+    }
+    queue.push({ x: x, y: y, step: 0 })
     vis[x][y] = 1
 
-    while (queue.length) {
+    while (queue.length > 0) {
       let f = queue.shift()
       for (let i = 0; i < 4; i++) {
         let nx = f.x + dx[i]
@@ -95,5 +96,8 @@ var maxDistance = function (grid) {
         }
       }
     }
+
+    return -1
   }
 };
+maxDistance([[1,0,0],[0,0,0],[0,0,0]])
