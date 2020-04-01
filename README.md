@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：42
+已刷题目总数：44
 
 **简单(easy)**[21]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -28,7 +28,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[18]
+**中等(medium)**[19]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -47,14 +47,23 @@
 - 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
 - 982.使数组唯一的最小增量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/982-minimum-increment-to-make-array-unique.js) [查看原题](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - 1117.地图分析 【广度优先搜索|图】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1117-as-far-from-land-as-possible.js) [查看原题](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
+- 1208.有效括号的嵌套深度 【贪心算法|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings.js) [查看原题](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
 
-**困难(hard)**[3]
+**困难(hard)**[4]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+- 10.正则表达式匹配 【字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/10-regular-expression-matching.js) [查看原题](https://leetcode-cn.com/problems/regular-expression-matching/)
 - 51.N皇后 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/51-n-queens.js) [查看原题](https://leetcode-cn.com/problems/n-queens/)
 - 52.N皇后 II 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/52-n-queens-ii.js) [查看原题](https://leetcode-cn.com/problems/n-queens-ii/)
 
 
 ## 日期进度
+
+### 2020-04-01【题目数：2】
+
+1.09:22——[1208.有效括号的嵌套深度](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings.js)(medium)
+
+2.18:25——[10.正则表达式匹配](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/10-regular-expression-matching.js)(hard)
+
 
 ### 2020-03-31【题目数：1】
 
