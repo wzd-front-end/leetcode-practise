@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：44
+已刷题目总数：46
 
 **简单(easy)**[21]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -28,7 +28,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[19]
+**中等(medium)**[21]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -37,11 +37,13 @@
 - 11.盛最多水的容器 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/11-container-with-most-water.js) [查看原题](https://leetcode-cn.com/problems/container-with-most-water/)
 - 12.整数转罗马数字 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/12-integer-to-roman.js) [查看原题](https://leetcode-cn.com/problems/integer-to-roman/)
 - 15.三数之和 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/15-3sum.js) [查看原题](https://leetcode-cn.com/problems/3sum/)
+- 16.最接近的三数之和 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/16-3sum-closest.js) [查看原题](https://leetcode-cn.com/problems/3sum-closest/)
 - 33.搜索旋转排序数组 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/33-search-in-rotated-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - 39.组合总和 【数组|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
 - 56.合并区间 【排序|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
 - 62.不同路径 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/62-unique-paths.js) [查看原题](https://leetcode-cn.com/problems/unique-paths/)
 - 91.解码方法 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/91-decode-ways.js) [查看原题](https://leetcode-cn.com/problems/decode-ways/)
+- 289.生命游戏 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/289-game-of-life.js) [查看原题](https://leetcode-cn.com/problems/game-of-life/)
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
@@ -57,6 +59,16 @@
 
 
 ## 日期进度
+
+### 2020-04-03【题目数：1】
+
+1.09:31——[16.最接近的三数之和](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/16-3sum-closest.js)(medium)
+
+
+### 2020-04-02【题目数：1】
+
+1.09:37——[289.生命游戏](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/289-game-of-life.js)(medium)
+
 
 ### 2020-04-01【题目数：2】
 
