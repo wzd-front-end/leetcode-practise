@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：47
+已刷题目总数：48
 
 **简单(easy)**[21]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -51,15 +51,21 @@
 - 1117.地图分析 【广度优先搜索|图】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1117-as-far-from-land-as-possible.js) [查看原题](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - 1208.有效括号的嵌套深度 【贪心算法|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings.js) [查看原题](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
 
-**困难(hard)**[5]
+**困难(hard)**[6]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 - 10.正则表达式匹配 【字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/10-regular-expression-matching.js) [查看原题](https://leetcode-cn.com/problems/regular-expression-matching/)
 - 42.接雨水 【栈|数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/42-trapping-rain-water.js) [查看原题](https://leetcode-cn.com/problems/trapping-rain-water/)
 - 51.N皇后 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/51-n-queens.js) [查看原题](https://leetcode-cn.com/problems/n-queens/)
 - 52.N皇后 II 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/52-n-queens-ii.js) [查看原题](https://leetcode-cn.com/problems/n-queens-ii/)
+- 460.LFU缓存 【设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/460-lfu-cache.js) [查看原题](https://leetcode-cn.com/problems/lfu-cache/)
 
 
 ## 日期进度
+
+### 2020-04-05【题目数：1】
+
+1.18:28——[460.LFU缓存](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/460-lfu-cache.js)(hard)
+
 
 ### 2020-04-04【题目数：1】
 
