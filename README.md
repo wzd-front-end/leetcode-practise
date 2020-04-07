@@ -3,14 +3,15 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：49
+已刷题目总数：50
 
-**简单(easy)**[21]
+**简单(easy)**[22]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
 - 13.罗马数字转整数 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/13-roman-to-integer.js) [查看原题](https://leetcode-cn.com/problems/roman-to-integer/)
 - 14.最长公共前缀 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/14-longest-common-prefix.js) [查看原题](https://leetcode-cn.com/problems/longest-common-prefix/)
+- 20.有效的括号 【栈|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/20-valid-parentheses.js) [查看原题](https://leetcode-cn.com/problems/valid-parentheses/)
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
@@ -62,6 +63,11 @@
 
 
 ## 日期进度
+
+### 2020-04-07【题目数：1】
+
+1.14:13——[20.有效的括号](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/20-valid-parentheses.js)(easy)
+
 
 ### 2020-04-06【题目数：1】
 
