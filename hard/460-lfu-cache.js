@@ -65,6 +65,7 @@ function LList() {
     var current = this.find(item);
     try{
       if(current){
+        if(current.next) current.next.previous = newNode
         newNode.next = current.next;
         newNode.previous = current;//双向链表元素前置值设置
         current.next = newNode;
@@ -138,6 +139,7 @@ LFUCache.prototype.get = function (key) {
     }
 
     this.key_table[key] = key_node
+    return value
   } else {
     return -1
   }
@@ -147,6 +149,9 @@ LFUCache.prototype.get = function (key) {
  * @param {number} key 
  * @param {number} value
  * @return {void}
+ * 
+ * 552ms  8.33%
+ * 77.8MB  100%
  */
 LFUCache.prototype.put = function (key, value) {
   if(this.capacity === 0) return
@@ -282,5 +287,5 @@ LFUCache.prototype.put = function (key, value) {
 // * obj.put(key,value)
 // */
 
-["LFUCache","put","put","get","put","get","get","put","get","get","get"]
-[[2],[1,1],[2,2],[1],[3,3],[2],[3],[4,4],[1],[3],[4]]
+['LFUCache','put','put','get','put','get','get','put','get','get','get']
+  [[2],[1,1],[2,2],[1],[3,3],[2],[3],[4,4],[1],[3],[4]]
