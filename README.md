@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：58
+已刷题目总数：59
 
 **简单(easy)**[22]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -29,7 +29,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[28]
+**中等(medium)**[29]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -51,6 +51,7 @@
 - 289.生命游戏 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/289-game-of-life.js) [查看原题](https://leetcode-cn.com/problems/game-of-life/)
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - 355.设计推特 【堆|设计|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/355-design-twitter.js) [查看原题](https://leetcode-cn.com/problems/design-twitter/)
+- 445.两数相加 II 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/445-add-two-numbers-ii.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
 - 982.使数组唯一的最小增量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/982-minimum-increment-to-make-array-unique.js) [查看原题](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
@@ -71,6 +72,11 @@
 
 
 ## 日期进度
+
+### 2020-04-14【题目数：1】
+
+1.11:40——[445.两数相加 II](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/445-add-two-numbers-ii.js)(medium)
+
 
 ### 2020-04-13【题目数：1】
 
