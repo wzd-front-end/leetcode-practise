@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：61
+已刷题目总数：63
 
 **简单(easy)**[22]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -29,7 +29,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[31]
+**中等(medium)**[33]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -39,11 +39,13 @@
 - 12.整数转罗马数字 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/12-integer-to-roman.js) [查看原题](https://leetcode-cn.com/problems/integer-to-roman/)
 - 15.三数之和 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/15-3sum.js) [查看原题](https://leetcode-cn.com/problems/3sum/)
 - 16.最接近的三数之和 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/16-3sum-closest.js) [查看原题](https://leetcode-cn.com/problems/3sum-closest/)
+- 17.电话号码的字母组合 【字符串|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/17-letter-combinations-of-a-phone-number.js) [查看原题](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 - 18.四数之和 【数组|哈希表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/18-4sum.js) [查看原题](https://leetcode-cn.com/problems/4sum/)
 - 19.删除链表的倒数第N个节点 【链表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/19-remove-nth-node-from-end-of-list.js) [查看原题](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - 22.括号生成 【字符串|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
 - 33.搜索旋转排序数组 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/33-search-in-rotated-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - 39.组合总和 【数组|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
+- 55.跳跃游戏 【贪心算法|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/55-jump-game.js) [查看原题](https://leetcode-cn.com/problems/jump-game/)
 - 56.合并区间 【排序|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/56-merge-intervals.js) [查看原题](https://leetcode-cn.com/problems/merge-intervals/)
 - 62.不同路径 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/62-unique-paths.js) [查看原题](https://leetcode-cn.com/problems/unique-paths/)
 - 91.解码方法 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/91-decode-ways.js) [查看原题](https://leetcode-cn.com/problems/decode-ways/)
@@ -74,6 +76,13 @@
 
 
 ## 日期进度
+
+### 2020-04-17【题目数：2】
+
+1.10:36——[55.跳跃游戏](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/55-jump-game.js)(medium)
+
+2.10:54——[17.电话号码的字母组合](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/17-letter-combinations-of-a-phone-number.js)(medium)
+
 
 ### 2020-04-16【题目数：1】
 
