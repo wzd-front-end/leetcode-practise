@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：74
+已刷题目总数：78
 
-**简单(easy)**[22]
+**简单(easy)**[25]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -16,6 +16,9 @@
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
+- 202.快乐数 【哈希表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/202-happy-number.js) [查看原题](https://leetcode-cn.com/problems/happy-number/)
+- 206.反转链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/206-reverse-linked-list.js) [查看原题](https://leetcode-cn.com/problems/reverse-linked-list/)
+- 225.用队列实现栈 【栈|设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/225-implement-stack-using-queues.js) [查看原题](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - 409.最长回文串 【哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/409-longest-palindrome.js) [查看原题](https://leetcode-cn.com/problems/longest-palindrome/)
 - 866.矩形重叠 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/866-rectangle-overlap.js) [查看原题](https://leetcode-cn.com/problems/rectangle-overlap/)
 - 908.链表的中间结点 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/908-middle-of-the-linked-list.js) [查看原题](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
@@ -29,7 +32,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[41]
+**中等(medium)**[42]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -58,6 +61,7 @@
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - 322.零钱兑换 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/322-coin-change.js) [查看原题](https://leetcode-cn.com/problems/coin-change/)
 - 355.设计推特 【堆|设计|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/355-design-twitter.js) [查看原题](https://leetcode-cn.com/problems/design-twitter/)
+- 365.水壶问题 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/365-water-and-jug-problem.js) [查看原题](https://leetcode-cn.com/problems/water-and-jug-problem/)
 - 445.两数相加 II 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/445-add-two-numbers-ii.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - 518.零钱兑换 II 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/518-coin-change-2.js) [查看原题](https://leetcode-cn.com/problems/coin-change-2/)
@@ -87,6 +91,17 @@
 
 
 ## 日期进度
+
+### 2020-04-30【题目数：4】
+
+1.09:42——[202.快乐数](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/202-happy-number.js)(easy)
+
+2.10:14——[206.反转链表](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/206-reverse-linked-list.js)(easy)
+
+3.10:21——[225.用队列实现栈](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/225-implement-stack-using-queues.js)(easy)
+
+4.10:30——[365.水壶问题](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/365-water-and-jug-problem.js)(medium)
+
 
 ### 2020-04-29【题目数：2】
 
