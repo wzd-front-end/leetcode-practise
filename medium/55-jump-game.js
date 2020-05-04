@@ -33,5 +33,15 @@
  * @return {boolean}
  */
 var canJump = function(nums) {
-
+  let rightMax = 0
+  let n = nums.length
+  for(let i = 0; i < n; i++){
+    if(i <= rightMax){
+      rightMax = Math.max(rightMax, i + nums[i])
+      if(rightMax >= (n - 1)){
+        return true
+      }
+    }
+  }
+  return false
 };
