@@ -21,6 +21,7 @@
  *
  *
  *
+ *
  * 示例 1：
  *
  * 输入：days = [1,4,6,7,8,20], costs = [2,7,15]
@@ -63,6 +64,7 @@
  * @param {number[]} days
  * @param {number[]} costs
  * @return {number}
+ * 该方法存在遍历366天中即使不出行的日子
  */
 var mincostTickets = function (days, costs) {
   let memo = new Array(366)
@@ -80,3 +82,23 @@ var mincostTickets = function (days, costs) {
     return memo[i]
   }
 };
+// var mincostTickets = function (days, costs) {
+//   let durations = [1, 7, 30]
+//   let len = days.length
+//   let memo = new Array(len)
+//   return dp(0)
+//
+//   function dp(i) {
+//     if (i >= len) return 0
+//     if (memo[i] !== undefined && memo[i] !== null) return memo[i]
+//     let j = i
+//     memo[i] = Infinity
+//     for (let k = 0; k < 3; k++) {
+//       while (j < len && days[j] < days[i] + durations[k]) {
+//         j++
+//       }
+//       memo[i] = Math.min(memo[i], dp(j) + costs[k])
+//     }
+//     return memo[i]
+//   }
+// }
