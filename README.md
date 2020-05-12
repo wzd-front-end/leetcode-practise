@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：89
+已刷题目总数：90
 
-**简单(easy)**[30]
+**简单(easy)**[31]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -18,6 +18,7 @@
 - 69.x 的平方根 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/69-sqrtx.js) [查看原题](https://leetcode-cn.com/problems/sqrtx/)
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+- 155.最小栈 【栈|设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/155-min-stack.js) [查看原题](https://leetcode-cn.com/problems/min-stack/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
 - 202.快乐数 【哈希表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/202-happy-number.js) [查看原题](https://leetcode-cn.com/problems/happy-number/)
@@ -102,6 +103,11 @@
 
 
 ## 日期进度
+
+### 2020-05-12【题目数：1】
+
+1.09:39——[155.最小栈](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/155-min-stack.js)(easy)
+
 
 ### 2020-05-11【题目数：2】
 
