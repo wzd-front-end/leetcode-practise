@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：92
+已刷题目总数：93
 
 **简单(easy)**[32]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -18,7 +18,7 @@
 - 69.x 的平方根 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/69-sqrtx.js) [查看原题](https://leetcode-cn.com/problems/sqrtx/)
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
-- 136.只出现一次的数字 【位运算|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/136-single-number.js) [查看原题](https://leetcode-cn.com/problems/single-number/)
+- 136.只出现一次的数字 【位运算|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/136-single-number.js) [查看原题](https://leetcode-cn.com/problems/single-number/)
 - 155.最小栈 【栈|设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/155-min-stack.js) [查看原题](https://leetcode-cn.com/problems/min-stack/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
@@ -39,7 +39,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[48]
+**中等(medium)**[49]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -78,6 +78,7 @@
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - 518.零钱兑换 II 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/518-coin-change-2.js) [查看原题](https://leetcode-cn.com/problems/coin-change-2/)
 - 542.01 矩阵 【深度优先搜索|广度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/542-01-matrix.js) [查看原题](https://leetcode-cn.com/problems/01-matrix/)
+- 560.和为K的子数组 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/560-subarray-sum-equals-k.js) [查看原题](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 - 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
 - 982.使数组唯一的最小增量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/982-minimum-increment-to-make-array-unique.js) [查看原题](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - 1025.最低票价 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1025-minimum-cost-for-tickets.js) [查看原题](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)
@@ -106,9 +107,14 @@
 
 ## 日期进度
 
+### 2020-05-15【题目数：1】
+
+1.09:20——[560.和为K的子数组](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/560-subarray-sum-equals-k.js)(medium)
+
+
 ### 2020-05-14【题目数：1】
 
-1.09:27——[136.只出现一次的数字](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/136-single-number.js)(easy)
+1.09:27——[136.只出现一次的数字](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/136-single-number.js)(easy)
 
 
 ### 2020-05-13【题目数：1】
