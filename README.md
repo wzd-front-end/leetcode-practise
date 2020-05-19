@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：96
+已刷题目总数：97
 
-**简单(easy)**[32]
+**简单(easy)**[33]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -27,6 +27,7 @@
 - 225.用队列实现栈 【栈|设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/225-implement-stack-using-queues.js) [查看原题](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 - 409.最长回文串 【哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/409-longest-palindrome.js) [查看原题](https://leetcode-cn.com/problems/longest-palindrome/)
 - 572.另一个树的子树 【树】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/572-subtree-of-another-tree.js) [查看原题](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+- 680.验证回文字符串 Ⅱ 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/680-valid-palindrome-ii.js) [查看原题](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 - 866.矩形重叠 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/866-rectangle-overlap.js) [查看原题](https://leetcode-cn.com/problems/rectangle-overlap/)
 - 908.链表的中间结点 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/908-middle-of-the-linked-list.js) [查看原题](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 - 928.三维形体的表面积 【几何|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/928-surface-area-of-3d-shapes.js) [查看原题](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)
@@ -109,6 +110,11 @@
 
 
 ## 日期进度
+
+### 2020-05-19【题目数：1】
+
+1.09:19——[680.验证回文字符串 Ⅱ](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/680-valid-palindrome-ii.js)(easy)
+
 
 ### 2020-05-18【题目数：1】
 
