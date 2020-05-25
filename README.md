@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：101
+已刷题目总数：102
 
 **简单(easy)**[34]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -41,7 +41,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[54]
+**中等(medium)**[55]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -68,6 +68,7 @@
 - 98.验证二叉搜索树 【树|深度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/98-validate-binary-search-tree.js) [查看原题](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 - 102.二叉树的层序遍历 【树|广度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/102-binary-tree-level-order-traversal.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - 105.从前序与中序遍历序列构造二叉树 【树|深度优先搜索|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/105-construct-binary-tree-from-preorder-and-inorder-traversal.js) [查看原题](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- 146.LRU缓存机制 【设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/146-lru-cache.js) [查看原题](https://leetcode-cn.com/problems/lru-cache/)
 - 151.翻转字符串里的单词 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/151-reverse-words-in-a-string.js) [查看原题](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 - 152.乘积最大子数组 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/152-maximum-product-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-product-subarray/)
 - 199.二叉树的右视图 【树|深度优先搜索|广度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/199-binary-tree-right-side-view.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-right-side-view/)
@@ -114,6 +115,11 @@
 
 
 ## 日期进度
+
+### 2020-05-25【题目数：1】
+
+1.09:44——[146.LRU缓存机制](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/146-lru-cache.js)(medium)
+
 
 ### 2020-05-22【题目数：3】
 
