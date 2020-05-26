@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：102
+已刷题目总数：105
 
-**简单(easy)**[34]
+**简单(easy)**[35]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -19,6 +19,7 @@
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
 - 121.买卖股票的最佳时机 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/121-best-time-to-buy-and-sell-stock.js) [查看原题](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - 136.只出现一次的数字 【位运算|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/136-single-number.js) [查看原题](https://leetcode-cn.com/problems/single-number/)
+- 141.环形链表 【链表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/141-linked-list-cycle.js) [查看原题](https://leetcode-cn.com/problems/linked-list-cycle/)
 - 155.最小栈 【栈|设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/155-min-stack.js) [查看原题](https://leetcode-cn.com/problems/min-stack/)
 - 169.多数元素 【位运算|数组|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/169-majority-element.js) [查看原题](https://leetcode-cn.com/problems/majority-element/)
 - 198.打家劫舍 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/198-house-robber.js) [查看原题](https://leetcode-cn.com/problems/house-robber/)
@@ -41,7 +42,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[55]
+**中等(medium)**[57]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -68,6 +69,7 @@
 - 98.验证二叉搜索树 【树|深度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/98-validate-binary-search-tree.js) [查看原题](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 - 102.二叉树的层序遍历 【树|广度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/102-binary-tree-level-order-traversal.js) [查看原题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - 105.从前序与中序遍历序列构造二叉树 【树|深度优先搜索|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/105-construct-binary-tree-from-preorder-and-inorder-traversal.js) [查看原题](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- 142.环形链表 II 【链表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/142-linked-list-cycle-ii.js) [查看原题](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 - 146.LRU缓存机制 【设计】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/146-lru-cache.js) [查看原题](https://leetcode-cn.com/problems/lru-cache/)
 - 151.翻转字符串里的单词 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/151-reverse-words-in-a-string.js) [查看原题](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 - 152.乘积最大子数组 【数组|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/152-maximum-product-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-product-subarray/)
@@ -76,6 +78,7 @@
 - 210.课程表 II 【深度优先搜索|广度优先搜索|图|拓扑排序】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/210-course-schedule-ii.js) [查看原题](https://leetcode-cn.com/problems/course-schedule-ii/)
 - 221.最大正方形 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/221-maximal-square.js) [查看原题](https://leetcode-cn.com/problems/maximal-square/)
 - 236.二叉树的最近公共祖先 【树】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/236-lowest-common-ancestor-of-a-binary-tree.js) [查看原题](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- 287.寻找重复数 【数组|双指针|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/287-find-the-duplicate-number.js) [查看原题](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - 289.生命游戏 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/289-game-of-life.js) [查看原题](https://leetcode-cn.com/problems/game-of-life/)
 - 300.最长上升子序列 【二分查找|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/300-longest-increasing-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - 322.零钱兑换 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/322-coin-change.js) [查看原题](https://leetcode-cn.com/problems/coin-change/)
@@ -115,6 +118,15 @@
 
 
 ## 日期进度
+
+### 2020-05-26【题目数：3】
+
+1.09:33——[287.寻找重复数](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/287-find-the-duplicate-number.js)(medium)
+
+2.09:59——[142.环形链表 II](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/142-linked-list-cycle-ii.js)(medium)
+
+3.10:52——[141.环形链表](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/141-linked-list-cycle.js)(easy)
+
 
 ### 2020-05-25【题目数：1】
 
