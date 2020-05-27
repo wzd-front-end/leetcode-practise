@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：105
+已刷题目总数：106
 
 **简单(easy)**[35]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -42,7 +42,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[57]
+**中等(medium)**[58]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -91,6 +91,7 @@
 - 560.和为K的子数组 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/560-subarray-sum-equals-k.js) [查看原题](https://leetcode-cn.com/problems/subarray-sum-equals-k/)
 - 948.排序数组 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/948-sort-an-array.js) [查看原题](https://leetcode-cn.com/problems/sort-an-array/)
 - 982.使数组唯一的最小增量 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/982-minimum-increment-to-make-array-unique.js) [查看原题](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
+- 1016.和可被 K 整除的子数组 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1016-subarray-sums-divisible-by-k.js) [查看原题](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)
 - 1025.最低票价 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1025-minimum-cost-for-tickets.js) [查看原题](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)
 - 1117.地图分析 【广度优先搜索|图】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1117-as-far-from-land-as-possible.js) [查看原题](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - 1208.有效括号的嵌套深度 【贪心算法|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1208-maximum-nesting-depth-of-two-valid-parentheses-strings.js) [查看原题](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
@@ -118,6 +119,11 @@
 
 
 ## 日期进度
+
+### 2020-05-27【题目数：1】
+
+1.09:35——[1016.和可被 K 整除的子数组](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/1016-subarray-sums-divisible-by-k.js)(medium)
+
 
 ### 2020-05-26【题目数：3】
 
