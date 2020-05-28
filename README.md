@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：106
+已刷题目总数：107
 
 **简单(easy)**[35]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -42,7 +42,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[58]
+**中等(medium)**[59]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -84,6 +84,7 @@
 - 322.零钱兑换 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/322-coin-change.js) [查看原题](https://leetcode-cn.com/problems/coin-change/)
 - 355.设计推特 【堆|设计|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/355-design-twitter.js) [查看原题](https://leetcode-cn.com/problems/design-twitter/)
 - 365.水壶问题 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/365-water-and-jug-problem.js) [查看原题](https://leetcode-cn.com/problems/water-and-jug-problem/)
+- 394.字符串解码 【栈|深度优先搜索】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/394-decode-string.js) [查看原题](https://leetcode-cn.com/problems/decode-string/)
 - 445.两数相加 II 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/445-add-two-numbers-ii.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - 516.最长回文子序列 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/516-longest-palindromic-subsequence.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - 518.零钱兑换 II 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/518-coin-change-2.js) [查看原题](https://leetcode-cn.com/problems/coin-change-2/)
@@ -119,6 +120,11 @@
 
 
 ## 日期进度
+
+### 2020-05-28【题目数：1】
+
+1.16:53——[394.字符串解码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/394-decode-string.js)(medium)
+
 
 ### 2020-05-27【题目数：1】
 
