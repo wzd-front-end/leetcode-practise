@@ -35,6 +35,7 @@
  * @param {number[]} heights
  * @return {number}
  */
+
 var largestRectangleArea = function(heights) {
   let n = heights.length
   let left = []
