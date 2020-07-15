@@ -32,6 +32,7 @@
 /**
  * @param {string[]} strs
  * @return {string}
+ * 题解：首先对数据数组的第一项进行遍历，然后遍历数据数组剩下项是否对应位置存在一致的字符或者i的值已经达到遍历项的长度，存在则继续遍历，否则截取输出·
  */
 var longestCommonPrefix = function(strs) {
   if(strs === null || strs.length === 0) return ''

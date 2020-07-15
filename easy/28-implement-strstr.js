@@ -34,6 +34,8 @@
  * @param {string} haystack
  * @param {string} needle
  * @return {number}
+ * 题解：查找子字符串，首先判断查询字符串的长度以及是否超过
+ * 其次，遍历字符串，判断当前值与查询字符串中的值是否相等，不相等则需要对其进行回退，相等则都下移一位
  */
 var strStr = function(haystack, needle) {
   if(needle === '') return 0

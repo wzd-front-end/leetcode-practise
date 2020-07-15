@@ -24,6 +24,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
+ * 题解：利用哈希值，将目标值减去当前值得到补充值，并把补充值作为key，索引值作为valve存放在哈希表中，如果存在对应的元素，则将其取出，
  */
 var twoSum = function(nums, target) {
   var hashTable = {}

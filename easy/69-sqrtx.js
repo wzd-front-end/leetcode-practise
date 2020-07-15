@@ -31,6 +31,7 @@
 /**
  * @param {number} x
  * @return {number}
+ * 题解：由于题目要求我们求解整数部分，所以可以用折半查找的方式进行判断
  */
 // var mySqrt = function (x) {
 //   if (x === 0) return 0

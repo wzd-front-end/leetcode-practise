@@ -54,6 +54,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * 题解：利用双指针，删除重复项，从头开始遍历，如果存在与pre指向的节点相同的节点，则跳过，否则pre+1，并将数组的pre+1位置变为当前的节点
  */
 var removeDuplicates = function (nums) {
   let len = nums.length

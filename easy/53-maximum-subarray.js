@@ -24,6 +24,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * 题解：求最大和的子数组，实际就是考虑前面的要不要累加上去，累加上去之后，累加上去后是否比直接去当前元素大
  */
 var maxSubArray = function (nums) {
   let pre = 0

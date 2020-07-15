@@ -26,6 +26,7 @@
 /**
  * @param {ListNode} l1
  * @param {ListNode} l2
+ * 题解：关注点在于有序链表，从两个链表的第一位开始比较，值较小的节点，将其推入结果链表，并移到下一项
  * @return {ListNode}
  */
 var mergeTwoLists = function (l1, l2) {

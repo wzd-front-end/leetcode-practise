@@ -35,6 +35,7 @@
 /**
  * @param {number} x
  * @return {number}
+ * 题解：主要采用取余法的方式，将余数乘以10变为高位
  */
 var reverse = function(x) {
   let rev = 0
