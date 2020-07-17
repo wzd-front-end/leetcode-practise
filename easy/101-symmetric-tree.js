@@ -48,6 +48,8 @@
 /**
  * @param {TreeNode} root
  * @return {boolean}
+ * 题解：镜像对称，即对其左右节点的值进行比较，采用递归的方式，深入检测，如果节点的左右节点都不存在，则返回true，
+ * 如果只有一个节点存在，则返回false，如果都存在则判断值是否相等并比较节点的左节点与另外一个节点的右节点
  */
 var isSymmetric = function (root) {
   return check(root, root)
