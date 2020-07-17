@@ -27,6 +27,7 @@
 
 /**
  * @param {number[]} nums
+ * 题解：利用异或的特性，相同的数字会被抵消掉了，数字的异或是支持换位的即a^b^c = a^c^b
  * @return {number}
  */
 var singleNumber = function (nums) {

@@ -58,6 +58,7 @@
 /**
  * @param {ListNode} head
  * @return {boolean}
+ * 题解：快慢指针，利用快慢指针最后会相碰，来实现是否有环的判断，如果有环，就会产生相遇
  */
 var hasCycle = function (head) {
   let slow = head

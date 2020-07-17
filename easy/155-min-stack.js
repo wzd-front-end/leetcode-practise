@@ -58,6 +58,7 @@ var MinStack = function () {
 /**
  * @param {number} x
  * @return {void}
+ * 题解：这里需要注意，最小值会随便栈的变化而变化，所以最小值需要一个栈来处理
  */
 MinStack.prototype.push = function (x) {
   this.stack.push(x)

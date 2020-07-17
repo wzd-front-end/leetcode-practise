@@ -65,6 +65,8 @@
  * @param {TreeNode} s
  * @param {TreeNode} t
  * @return {boolean}
+ * 题解：深度遍历，先输入源树和目标子树，判断是否进行源存在，之后检查当前的源节点和目标树是否相等
+ *
  */
 var isSubtree = function (s, t) {
   return dfs(s, t)

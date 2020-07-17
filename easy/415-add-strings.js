@@ -23,6 +23,8 @@
  * @param {string} num1
  * @param {string} num2
  * @return {string}
+ * 题解：字符串相加，对于超过长度的数字相加，都可以采用此方式
+ * 需要特别注意的是，是否需要进位
  */
 var addStrings = function (num1, num2) {
   let n1 = num1.length - 1
