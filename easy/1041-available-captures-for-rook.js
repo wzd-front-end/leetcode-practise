@@ -58,6 +58,8 @@
 /**
  * @param {character[][]} board
  * @return {number}
+ * 题解：首先需要找出R所在的位置，然后从其上下左右四个方向查找是否存在p，移动结束条件是
+ * 找到p或者达到边缘，或者路途上有友方棋子
  */
 var numRookCaptures = function(board) {
   let n = board.length

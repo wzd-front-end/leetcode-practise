@@ -38,7 +38,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
- * 线性动态规划，类似打家劫舍
+ * 题解：线性动态规划，类似打家劫舍
  */
 var massage = function(nums) {
   let n = nums.length

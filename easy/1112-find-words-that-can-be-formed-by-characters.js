@@ -11,7 +11,7 @@
  * 
  * 注意：每次拼写时，chars 中的每个字母都只能用一次。
  * 
- * 返回词汇表 words 中你掌握的所有单词的 长度之和。
+ * 返回词汇表 words 中你掌握的所有单词的 长度之和 。
  * 
  *  
  * 
@@ -48,6 +48,7 @@
  * @param {string[]} words
  * @param {string} chars
  * @return {number}
+ * 题解：收集字符集的数量，然后再对单词的对应的字符集进行收集，如果单词所有的字符的数量都对于字符集的数量，则说明存在
  */
 var countCharacters = function(words, chars) {
   let chat_cnt = {}

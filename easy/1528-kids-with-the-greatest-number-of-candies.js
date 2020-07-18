@@ -53,6 +53,7 @@
  * @param {number[]} candies
  * @param {number} extraCandies
  * @return {boolean[]}
+ * 题解：需要两次遍历，首先是找出最大值，然后再遍历一次，判断加上多余的糖果是否大于最大值
  */
 var kidsWithCandies = function (candies, extraCandies) {
   let max = -Infinity
