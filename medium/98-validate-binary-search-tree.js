@@ -50,6 +50,7 @@
 /**
  * @param {TreeNode} root
  * @return {boolean}
+ * 题解：利用递归的思想，判断节点的值是否在上下限范围内，如果不在范围内则直接返回false，否则递归遍历左右子树是否符合要求
  */
 var isValidBST = function (root) {
   return helper(root, -Infinity, Infinity)

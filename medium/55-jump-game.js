@@ -31,6 +31,7 @@
 /**
  * @param {number[]} nums
  * @return {boolean}
+ * 题解：从左到右开始遍历，利用能达到最远的位置，不断累加，如果累加值能大于长度，则说明其可以到达最后位置
  */
 var canJump = function(nums) {
   let rightMax = 0

@@ -26,6 +26,7 @@
 /**
  * @param {string} digits
  * @return {string[]}
+ * 题解：回溯算法，准备好映射关系，将源数字字符串传入递归的
  */
 var letterCombinations = function (digits) {
   if (digits === '') return []

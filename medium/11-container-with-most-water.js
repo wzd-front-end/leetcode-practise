@@ -28,6 +28,7 @@
 /**
  * @param {number[]} height
  * @return {number}
+ * 题解：利用双指针，左右同时开工，选取左右或者右边较小得一边，向内靠拢
  */
 var maxArea = function(height) {
   let maxarea = 0

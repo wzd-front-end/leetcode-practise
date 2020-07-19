@@ -30,6 +30,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[][]}
+ * 题解：四数之和，做法类似三数之和，不过是先确定一个数，再进行三数之和的相加，不过要进行适当剪枝
  * 
  * 92ms  90.23%
  * 36.4MB  95.00%

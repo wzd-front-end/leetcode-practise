@@ -26,20 +26,21 @@
 /**
  * @param {number[]} nums
  * @return {number[][]}
+ * 题解：回溯想法，类似与求组合和，
  */
 var permute = function (nums) {
   let ans = []
-  backtracking(nums, 0, nums.length, [], ans)
+  backtracking(nums, nums.length, [], ans)
   return ans
 
-  function backtracking(nums, start, n, curr, ans) {
-    if (start === n) {
+  function backtracking(nums, n, curr, ans) {
+    if (curr.length === n) {
       ans.push([...curr])
     }
     for (let i = 0; i < n; i++) {
       if (curr.indexOf(nums[i]) < 0) {
         curr.push(nums[i])
-        backtracking(nums, start + 1, n, curr, ans)
+        backtracking(nums, n, curr, ans)
         curr.pop()
       }
     }

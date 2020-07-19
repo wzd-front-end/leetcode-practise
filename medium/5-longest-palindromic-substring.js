@@ -1,7 +1,8 @@
 /**
  * @name 最长回文子串
  * @url https://leetcode-cn.com/problems/longest-palindromic-substring/
- * @date 2020-03-10 23:35
+ * @date 2020-03-10 23:35 
+ * 
  * @tags 字符串、动态规划
  * description
  * ```
@@ -26,6 +27,7 @@
 /**
  * @param {string} s
  * @return {string}
+ * 题解：中心扩展法，
  */
 var longestPalindrome = function(s) {
   if(s === null || s.length < 1) return ''

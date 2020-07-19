@@ -43,6 +43,7 @@
  * @param {number[]} candidates
  * @param {number} target
  * @return {number[][]}
+ * 题解：这道题主要是在于可以重复选择，首先进行一个排序，从小到大，利用回溯算法，不断地减少target,如果最后刚好等于0，说明存在答案，否则小于0就返回
  * 
  * 88ms  65.1%
  * 36.6MB  75.36%

@@ -37,6 +37,10 @@
  * @param {number[]} preorder
  * @param {number[]} inorder
  * @return {TreeNode}
+ * 题解：先序遍历可以获取到根节点，中序遍历可以得到左右子树的长度
+ * 通过这两个信息，即可以构建出新的树，首先通过新建哈希表，将中序遍历的value：key存储起来，方便获取对应的节点的index值
+ * 这样通过获取到先序遍历的root节点，找出在中序遍历中的位置，就可以得出左右子树在数组中的位置
+ * 
  */
 var buildTree = function (preorder, inorder) {
   let n = inorder.length

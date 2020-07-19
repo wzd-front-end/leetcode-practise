@@ -33,6 +33,8 @@
  * @param {string} num1
  * @param {string} num2
  * @return {string}
+ * 题解：模拟我们数字相乘的方法，首先先创建一个数组，长度为n1+n2，内部填充0，这个长度也是相乘之后可能出现的最大长度
+ * 从后往前遍历两个数，在res[i + j + 1]位置进行加法，然后在res[i + j]进行仅为，最后得到的结果数组转化为字符串
  */
 var addStrings = function (num1, num2) {
   let n1 = num1.length - 1
@@ -83,7 +85,7 @@ var multiply = function (num1, num2) {
   let res = new Array(n1 + n2).fill(0)
   for (let i = n1 - 1; i >= 0; i--) {
     for (let j = n2 - 1; j >= 0; j--) {
-      let sum =res[i + j + 1] + Number(num1[i]) * Number(num1[j])
+      let sum =res[i + j + 1] + Number(num1[i]) * Number(num2[j])
       res[i + j + 1] = sum % 10
       res[i + j] += parseInt(sum / 10)
     }

@@ -19,6 +19,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
+ * 题解：类似三数之和，不过是将判断的在判断的时候增加对于差值的比较，存在最小的差值
  * 
  * 80ms  67.89%
  * 34.8MB  100.00%

@@ -44,6 +44,7 @@
  * @param {string} s
  * @param {number} numRows
  * @return {string}
+ * 题解：实际上是进行一些字符串相加，方向切换条件为当触底或者触顶
  * 88ms  96.5%
  * 37.8MB  96.8%
  */

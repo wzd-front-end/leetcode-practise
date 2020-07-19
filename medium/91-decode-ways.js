@@ -35,6 +35,8 @@
 /**
  * @param {string} s
  * @return {number}
+ * 题解：主要是判断前一个值和当前值是否可以组合，如果可以组合，那么其数量和为result[i]和result[i - 1]，否则
+ * result[i+1]等于result[i]
  * 64ms  89.32%
  * 34MB  84.81%   
  * 
@@ -55,7 +57,7 @@ var numDecodings = function(s) {
         return 0
       } else {
         result[i + 1] = result [i - 1]
-      }
+      } 
     }
   }
   return result[n]

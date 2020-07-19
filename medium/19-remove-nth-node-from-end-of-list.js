@@ -36,6 +36,8 @@
  * @param {ListNode} head
  * @param {number} n
  * @return {ListNode}
+ * 题解：利用双指针，首先让快指针先走长度为n的步数，然后，慢指针和快指针同时开始移动
+ * 但快指针移到结束的时候，慢指针刚好到距离尾部长度为n的位置
  */
 var removeNthFromEnd = function (head, n) {
   let dummy = new ListNode(0)

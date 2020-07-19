@@ -41,6 +41,9 @@
 /**
  * @param {TreeNode} root
  * @return {number[][]}
+ * 题解：广度优先遍历，通过前后队列的方式，存储前一层的节点，遍历生成下一层的节点，当前一层的节点遍历结束的时候，
+ * 将该层所有的值推入结果数组并重置状态位
+ * 
  */
 var levelOrder = function(root) {
   if(!root) return []

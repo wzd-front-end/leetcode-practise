@@ -35,6 +35,7 @@
 /**
  * @param {string} s
  * @return {number}
+ * 题解：利用哈希表记录出现过的字符，当哈希表中对应的值存在时，则说明其重复，这个时候取i得值为当前i与哈希表中存在值得最大值
  */
 var lengthOfLongestSubstring = function(s) {
   let set = {}

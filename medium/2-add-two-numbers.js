@@ -32,6 +32,7 @@
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
+ * 题解：类似字符串相加
  */
 function ListNode(val){
   this.val = val
