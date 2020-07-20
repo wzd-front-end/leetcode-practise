@@ -37,6 +37,8 @@
  * @param {number} y
  * @param {number} z
  * @return {boolean}
+ * 题解：利用贝祖定理，如果z是两个数的最大公约数的倍数，那么就可以实现ax+by = z，利用辗转取余法，
+ * 获取到最大公约数，然后判断z的是否
  */
 var canMeasureWater = function (x, y, z) {
   if (x + y < z) return false

@@ -38,6 +38,9 @@
 /**
  * @param {character[][]} grid
  * @return {number}
+ * 题解：实际上，主要是对值为1的点进行遍历，对其上下左右进行遍历，利用队列的方式，
+ * 将当前节点推入队列中，然后遍历弹出队列中的节点，对弹出节点的上下左右进行遍历，如果存在1的情况，将其变为0，
+ *
  */
 var numIslands = function (grid) {
   let n = grid.length

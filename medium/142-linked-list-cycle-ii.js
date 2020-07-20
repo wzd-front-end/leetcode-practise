@@ -82,6 +82,7 @@ var detectCycle = function (head) {
  * @param {ListNode} head
  * @return {ListNode}
  * 快慢指针：
+ * 题解：利用快慢指针最后会相遇，则说明存在环，找到相遇点，之后从开始节点和相遇节点同时开始移动，当移动到同个节点的时候，就是环的入口
  *
  */
 var detectCycle = function (head) {

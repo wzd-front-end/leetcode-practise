@@ -134,6 +134,7 @@ LRUCache.prototype.get = function(key) {
  * @param {number} key
  * @param {number} value
  * @return {void}
+ * 题解：这里需要注意的是，需要利用双向链表，来处理数据项的新旧问题，
  */
 LRUCache.prototype.put = function(key, value) {
   if(this.capacity === 0){return -1}

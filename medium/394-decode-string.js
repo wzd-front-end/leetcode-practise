@@ -27,6 +27,9 @@
 /**
  * @param {string} s
  * @return {string}
+ * 题解：利用栈的思想，将不等于]的所有字符推入栈中，当遇到[的时候，则开转码
+ * 先取出字符串，直到[停止，再去除数字，然后使用new Array(num).fill(str).join().split('')和元素组进行合并，
+ * 继续遍历，最后将数组转化为字符串即可
  */
 var decodeString = function (s) {
   let stack = []

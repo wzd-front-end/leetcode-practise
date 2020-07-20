@@ -26,6 +26,7 @@
 /**
  * @param {number[]} prices
  * @return {number}
+ * 题解：所谓冷冻期，就是延迟一天交易，注意动态规划的状态表示dp[n][1/0](天数/是否持有)
  */
 var maxProfit = function (prices) {
   let n = prices.length

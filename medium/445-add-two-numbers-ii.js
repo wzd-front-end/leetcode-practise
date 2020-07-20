@@ -39,6 +39,9 @@ function ListNode(val) {
  * @return {ListNode}
  * 128ms  81.9%
  * 38.8MB  100%
+ * 题解：首先将链表中的数据获取出来，使用栈来存储，然后当两个栈不为空，或者carry不等于0，都进去循环
+ * 将计算三者的和，判断和是否大于10确定carry的值，然后新建一个节点，该新建节点的下一个节点置为curr，
+ * 并将curr置为pre
  */
 var addTwoNumbers = function (l1, l2) {
   let stack1 = []

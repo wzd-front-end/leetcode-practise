@@ -56,6 +56,8 @@
  * @param {number} amount
  * @param {number[]} coins
  * @return {number}
+ * 题解：遍历金币的数组，然后通过遍历金额的大小，当前的状态为两种状态组合
+ * 不选择该面额金币已经选择该面额金币相加
  */
 var change = function(amount, coins) {
   let dp = new Array(amount + 1).fill(0)

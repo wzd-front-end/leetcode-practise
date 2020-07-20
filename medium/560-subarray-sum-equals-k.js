@@ -50,6 +50,9 @@ var subarraySum = function (nums, k) {
  * @return {number}
  * 528ms 76.70%
  * 36.3MB 100.100%
+ * 题解：通过哈希表的方式，记录前面累加后的所有值的可能，遍历一遍的时候，如果哈希表中已经有该累加值
+ * 则将值+1，否则，初始化值为1，每次遍历的时候，如果哈希表中存在累加值-k的值存在的情况，则将对应的数量加上count，初始化的时候，设置mp.set(0, 1)
+ * 即当累计值为0时，有一种情况
  */
 var subarraySum = function (nums, k) {
   const mp = new Map()

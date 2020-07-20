@@ -57,6 +57,10 @@
 /**
  * @param {number[][]} matrix
  * @return {number[][]}
+ * 题解：首先，建立一个用于存储节点是否已经阅读的二维数组
+ * 然后建立距离的二维数组
+ * 将所有的为0的节点收集进队列中，当队列的长度大于0的时候，
+ * 遍历每个位置的上下左右点，如果该点没有阅读过，则对其进行计算，并将其推入队列中
  */
 var updateMatrix = function (matrix) {
   let n = matrix.length

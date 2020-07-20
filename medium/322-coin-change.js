@@ -32,6 +32,9 @@
  * @param {number[]} coins
  * @param {number} amount
  * @return {number}
+ * 题解：首先建立一个状态为全部为金额+1的金币数的数组，用于存储状态，
+ * 然后，循环遍历，依次遍历金额更大的金币，类似于背包问题，依次增加物品的价值
+ * dp[0] = 0，初始金币数，通过比较dp[j]需要的金币数和dp[j-coin] + 1的金币数的大小关系
  */
 var coinChange = function (coins, amount) {
   let dp = new Array(amount + 1).fill(amount + 1)

@@ -34,18 +34,47 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * 题解：使用快慢指针，如果有存在重复的数字，那么就类似于环形链表，一定会存在最后两个指针的值相等
+ * 所以可以将值当作指针跳转，最后重置慢指针，将快指针和慢指针同时跳转，当两者相等的时候，即可的得到重复的值
+ */
+// var findDuplicate = function (nums) {
+//   let slow = 0
+//   let fast = 0
+//   do {
+//     slow = nums[slow]
+//     fast = nums[nums[fast]]
+//   } while (slow !== fast)
+//   slow = 0
+//   while (fast !== slow) {
+//     slow = nums[slow]
+//     fast = nums[fast]
+//   }
+//   return slow
+// };
+/**
+ * @param {number[]} nums
+ * @return {number}
+ * 题解：利用二分法来解决该问题，只有一个数是重复的，那个这个数只可能出现在中间数的左边或者右边，通过计算左右两边的数的数量
+ * 确定该数位于左边还是右边
+ *
  */
 var findDuplicate = function (nums) {
-  let slow = 0
-  let fast = 0
-  do {
-    slow = nums[slow]
-    fast = nums[nums[fast]]
-  } while (slow !== fast)
-  slow = 0
-  while (fast !== slow) {
-    slow = nums[slow]
-    fast = nums[fast]
+  const n = nums.length
+  let l = 1, r = n, ans = -1
+  while (l <= r){
+    let mid = (l + r) >> 1
+    let cnt = 0
+    for(let i = 0; i < n; i++){
+      if(nums[i] <= mid){
+        cnt += 1
+      }
+    }
+    if(cnt <= mid){
+      l = mid + 1
+    } else {
+      r = mid - 1
+      ans = mid
+    }
   }
-  return slow
-};
+  return ans
+}
