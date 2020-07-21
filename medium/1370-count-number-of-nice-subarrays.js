@@ -50,6 +50,10 @@
  * @param {number[]} nums
  * @param {number} k
  * @return {number}
+ * 题解：首先，收集起奇数的个数索引值，并计算奇数的个数，然后将odd中的尾部增加n
+ * 之后从第一个奇数开始遍历，i+k要小于等于cnt
+ * 数量等于odd[i] - dp[i - 1]之间的个数乘以odd[i+k] - odd[i+k-1]得出这k个奇数的所有数组，然后移动到下一个奇数开始
+ *
  */
 var numberOfSubarrays = function (nums, k) {
   let n = nums.length

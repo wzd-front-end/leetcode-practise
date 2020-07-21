@@ -48,10 +48,10 @@ var singleNumbers = function (nums) {
     }
   }
   let keys = Object.keys(mapHash)
-  for(let j = 0, len = keys.length;j < len; j++){
-    if(mapHash[keys[j]] === 1){
+  for (let j = 0, len = keys.length; j < len; j++) {
+    if (mapHash[keys[j]] === 1) {
       ans.push(keys[j])
-      if(ans.length === 2){
+      if (ans.length === 2) {
         break
       }
     }
@@ -59,3 +59,23 @@ var singleNumbers = function (nums) {
 
   return ans
 };
+var singleNumber = function (nums) {
+  let ret = 0
+  for (let t of nums) {
+    ret ^= t
+  }
+  let flag = 1
+  while ((ret & flag) === 0) {
+    flag <<= 1
+  }
+  let n = 0, m = 0
+  for (let t of nums) {
+    if ((t & flag) === 0) {
+      n ^= t
+    } else {
+      m ^= t
+    }
+  }
+  return [n, m]
+
+}
