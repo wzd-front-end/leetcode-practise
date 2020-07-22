@@ -30,6 +30,7 @@
 /**
  * @param {ListNode[]} lists
  * @return {ListNode}
+ *
  */
 var mergeKLists = function (lists) {
   return merge(lists, 0, lists.length - 1)
@@ -45,10 +46,10 @@ var mergeKLists = function (lists) {
     while (aPrt && bPrt) {
       if(aPrt.val < bPrt.val){
         tail.next = aPrt
-        aPrt = aPrt.negotiated
+        aPrt = aPrt.next
       } else {
         tail.next = bPrt
-        bPrt.next = bPrt
+        bPrt = bPrt.next
       }
       tail = tail.next
     }
@@ -61,6 +62,6 @@ var mergeKLists = function (lists) {
     if (l > r) return null
 
     let mid = parseInt((l + r) / 2)
-    return mergeTwoLists(merge(lists, 1, mid), merge(lists, mid + 1, r))
+    return mergeTwoLists(merge(lists, l, mid), merge(lists, mid + 1, r))
   }
 };
