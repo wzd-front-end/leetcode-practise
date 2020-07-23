@@ -29,6 +29,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * 题解：因为假设了数组一定能到最后一个位置，所以直接贪心算法
  */
 var jump = function (nums) {
   let n = nums.length

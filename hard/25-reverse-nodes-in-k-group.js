@@ -67,7 +67,10 @@ var reverseKGroup = function (head, k) {
   }
   return hair.next
 };
-
+// 这个函数实现的是一个一个得往后填补，直到pre等于之后一个得时候，那就说明全部倒序完毕
+// 先获取最后一个节点的next，p取得是第一个节点作为默认值，然后判断pre是否等于我们传入的结束节点值
+// 如果不是先将p的next保存下来，然后将p的next变为pre，再将pre变为p，接着将p置为前面保存下来的next，
+// 最后返回开始和结束相反的数组
 const myReverse = (head, tail) => {
   let pre = tail.next
   let p = head
