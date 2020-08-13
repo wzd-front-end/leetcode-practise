@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：121
+已刷题目总数：123
 
 **简单(easy)**[40]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -114,12 +114,14 @@
 - 100320.数组中数字出现的次数 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/100320-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
 - 100344.股票的最大利润 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/100344-gu-piao-de-zui-da-li-run-lcof.js) [查看原题](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 
-**困难(hard)**[16]
+**困难(hard)**[18]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 - 10.正则表达式匹配 【字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/10-regular-expression-matching.js) [查看原题](https://leetcode-cn.com/problems/regular-expression-matching/)
 - 23.合并K个排序链表 【堆|链表|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/23-merge-k-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 - 25.K 个一组翻转链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/25-reverse-nodes-in-k-group.js) [查看原题](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+- 41.缺失的第一个正数 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/41-first-missing-positive.js) [查看原题](https://leetcode-cn.com/problems/first-missing-positive/)
 - 42.接雨水 【栈|数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/42-trapping-rain-water.js) [查看原题](* @date 2020-04-04 23:35)
+- 44.通配符匹配 【贪心算法|字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/44-wildcard-matching.js) [查看原题](https://leetcode-cn.com/problems/wildcard-matching/)
 - 45.跳跃游戏 II 【贪心算法|数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/45-jump-game-ii.js) [查看原题](https://leetcode-cn.com/problems/jump-game-ii/)
 - 51.N皇后 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/51-n-queens.js) [查看原题](https://leetcode-cn.com/problems/n-queens/)
 - 52.N皇后 II 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/52-n-queens-ii.js) [查看原题](https://leetcode-cn.com/problems/n-queens-ii/)
@@ -135,9 +137,13 @@
 
 ## 日期进度
 
-### 2020-08-13【题目数：1】
+### 2020-08-13【题目数：3】
 
 1.10:00——[38.外观数列](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js)(easy)
+
+2.11:20——[41.缺失的第一个正数](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/41-first-missing-positive.js)(hard)
+
+3.14:34——[44.通配符匹配](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/44-wildcard-matching.js)(hard)
 
 
 ### 2020-08-10【题目数：3】
