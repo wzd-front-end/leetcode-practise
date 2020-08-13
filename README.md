@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：120
+已刷题目总数：121
 
-**简单(easy)**[39]
+**简单(easy)**[40]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -15,6 +15,7 @@
 - 21.合并两个有序链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/21-merge-two-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 26.删除排序数组中的重复项 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/26-remove-duplicates-from-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - 28.实现 strStr() 【双指针|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/28-implement-strstr.js) [查看原题](https://leetcode-cn.com/problems/implement-strstr/)
+- 38.外观数列 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和 【数组|分治算法|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
 - 69.x 的平方根 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/69-sqrtx.js) [查看原题](https://leetcode-cn.com/problems/sqrtx/)
 - 70.爬楼梯 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/70-climbing-stairs.js) [查看原题](https://leetcode-cn.com/problems/climbing-stairs/)
@@ -133,6 +134,11 @@
 
 
 ## 日期进度
+
+### 2020-08-13【题目数：1】
+
+1.10:00——[38.外观数列](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js)(easy)
+
 
 ### 2020-08-10【题目数：3】
 
