@@ -45,6 +45,7 @@
  * @param {number} target
  * @return {number[][]}
  */
+
 var combinationSum2 = function (candidates, target) {
   let results = []
   candidates.sort((a, b) => a - b)
