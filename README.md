@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：123
+已刷题目总数：125
 
-**简单(easy)**[40]
+**简单(easy)**[41]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -14,6 +14,7 @@
 - 20.有效的括号 【栈|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/20-valid-parentheses.js) [查看原题](https://leetcode-cn.com/problems/valid-parentheses/)
 - 21.合并两个有序链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/21-merge-two-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 26.删除排序数组中的重复项 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/26-remove-duplicates-from-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+- 27.移除元素 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js) [查看原题](https://leetcode-cn.com/problems/remove-element/)
 - 28.实现 strStr() 【双指针|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/28-implement-strstr.js) [查看原题](https://leetcode-cn.com/problems/implement-strstr/)
 - 38.外观数列 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和 【数组|分治算法|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
@@ -47,7 +48,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[65]
+**中等(medium)**[66]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -61,6 +62,7 @@
 - 18.四数之和 【数组|哈希表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/18-4sum.js) [查看原题](https://leetcode-cn.com/problems/4sum/)
 - 19.删除链表的倒数第N个节点 【链表|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/19-remove-nth-node-from-end-of-list.js) [查看原题](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 - 22.括号生成 【字符串|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/22-generate-parentheses.js) [查看原题](https://leetcode-cn.com/problems/generate-parentheses/)
+- 24.两两交换链表中的节点 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/24-swap-nodes-in-pairs.js) [查看原题](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 - 29.两数相除 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/29-divide-two-integers.js) [查看原题](https://leetcode-cn.com/problems/divide-two-integers/)
 - 33.搜索旋转排序数组 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/33-search-in-rotated-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 - 34.在排序数组中查找元素的第一个和最后一个位置 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/34-find-first-and-last-position-of-element-in-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
@@ -136,6 +138,13 @@
 
 
 ## 日期进度
+
+### 2020-08-14【题目数：2】
+
+1.09:51——[24.两两交换链表中的节点](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/24-swap-nodes-in-pairs.js)(medium)
+
+2.10:41——[27.移除元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js)(easy)
+
 
 ### 2020-08-13【题目数：3】
 
