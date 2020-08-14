@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：125
+已刷题目总数：126
 
 **简单(easy)**[41]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -48,7 +48,7 @@
 - 100343.圆圈中最后剩下的数字 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/100343-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof.js) [查看原题](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 - 1000023.按摩师 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1000023-the-masseuse-lcci.js) [查看原题](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 
-**中等(medium)**[66]
+**中等(medium)**[67]
 - 2.两数相加 【链表|数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/2-add-two-numbers.js) [查看原题](https://leetcode-cn.com/problems/add-two-numbers/)
 - 3.无重复字符的最长子串 【哈希表|双指针|字符串|】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/3-longest-substring-without-repeating-characters.js) [查看原题](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - 5.最长回文子串 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/5-longest-palindromic-substring.js) [查看原题](https://leetcode-cn.com/problems/longest-palindromic-substring/)
@@ -68,6 +68,7 @@
 - 34.在排序数组中查找元素的第一个和最后一个位置 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/34-find-first-and-last-position-of-element-in-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - 36.有效的数独 【哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/36-valid-sudoku.js) [查看原题](https://leetcode-cn.com/problems/valid-sudoku/)
 - 39.组合总和 【数组|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/39-combination-sum.js) [查看原题](https://leetcode-cn.com/problems/combination-sum/)
+- 40.组合总和 II 【数组|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/40-combination-sum-ii.js) [查看原题](https://leetcode-cn.com/problems/combination-sum-ii/)
 - 43.字符串相乘 【数学|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/43-multiply-strings.js) [查看原题](https://leetcode-cn.com/problems/multiply-strings/)
 - 46.全排列 【回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/46-permutations.js) [查看原题](https://leetcode-cn.com/problems/permutations/)
 - 50.Pow(x, n) 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/50-powx-n.js) [查看原题](https://leetcode-cn.com/problems/powx-n/)
@@ -139,11 +140,13 @@
 
 ## 日期进度
 
-### 2020-08-14【题目数：2】
+### 2020-08-14【题目数：3】
 
 1.09:51——[24.两两交换链表中的节点](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/24-swap-nodes-in-pairs.js)(medium)
 
 2.10:41——[27.移除元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js)(easy)
+
+3.11:35——[40.组合总和 II](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/40-combination-sum-ii.js)(medium)
 
 
 ### 2020-08-13【题目数：3】
