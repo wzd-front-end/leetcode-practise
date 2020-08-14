@@ -3,9 +3,9 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：126
+已刷题目总数：127
 
-**简单(easy)**[41]
+**简单(easy)**[42]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
 - 7.整数反转 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/7-reverse-integer.js) [查看原题](https://leetcode-cn.com/problems/reverse-integer/)
 - 9.回文数 【数学】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/9-palindrome-number.js) [查看原题](https://leetcode-cn.com/problems/palindrome-number/)
@@ -16,6 +16,7 @@
 - 26.删除排序数组中的重复项 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/26-remove-duplicates-from-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 - 27.移除元素 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js) [查看原题](https://leetcode-cn.com/problems/remove-element/)
 - 28.实现 strStr() 【双指针|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/28-implement-strstr.js) [查看原题](https://leetcode-cn.com/problems/implement-strstr/)
+- 35.搜索插入位置 【数组|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/35-search-insert-position.js) [查看原题](https://leetcode-cn.com/problems/search-insert-position/)
 - 38.外观数列 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和 【数组|分治算法|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
 - 69.x 的平方根 【数学|二分查找】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/69-sqrtx.js) [查看原题](https://leetcode-cn.com/problems/sqrtx/)
@@ -140,13 +141,15 @@
 
 ## 日期进度
 
-### 2020-08-14【题目数：3】
+### 2020-08-14【题目数：4】
 
 1.09:51——[24.两两交换链表中的节点](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/24-swap-nodes-in-pairs.js)(medium)
 
 2.10:41——[27.移除元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js)(easy)
 
 3.11:35——[40.组合总和 II](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/40-combination-sum-ii.js)(medium)
+
+4.14:35——[35.搜索插入位置](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/35-search-insert-position.js)(easy)
 
 
 ### 2020-08-13【题目数：3】
