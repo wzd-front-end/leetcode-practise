@@ -14,7 +14,7 @@
 - 20.有效的括号 【栈|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/20-valid-parentheses.js) [查看原题](https://leetcode-cn.com/problems/valid-parentheses/)
 - 21.合并两个有序链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/21-merge-two-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 26.删除排序数组中的重复项 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/26-remove-duplicates-from-sorted-array.js) [查看原题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
-- 27.移除元素 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js) [查看原题](https://leetcode-cn.com/problems/remove-element/)
+- 27.移除元素 【数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js) [查看原题](https://leetcode-cn.com/problems/remove-element/)
 - 28.实现 strStr() 【双指针|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/28-implement-strstr.js) [查看原题](https://leetcode-cn.com/problems/implement-strstr/)
 - 38.外观数列 【字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/38-count-and-say.js) [查看原题](https://leetcode-cn.com/problems/count-and-say/)
 - 53.最大子序和 【数组|分治算法|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/53-maximum-subarray.js) [查看原题](https://leetcode-cn.com/problems/maximum-subarray/)
@@ -143,7 +143,7 @@
 
 1.09:51——[24.两两交换链表中的节点](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/24-swap-nodes-in-pairs.js)(medium)
 
-2.10:41——[27.移除元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js)(easy)
+2.10:41——[27.移除元素](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/27-remove-element.js)(easy)
 
 
 ### 2020-08-13【题目数：3】
