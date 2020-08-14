@@ -30,6 +30,8 @@
  */
 var permute = function (nums) {
   let ans = []
+  let used = []
+  nums.sort((a, b) => a - b)
   backtracking(nums, nums.length, [], ans)
   return ans
 
@@ -38,11 +40,15 @@ var permute = function (nums) {
       ans.push([...curr])
     }
     for (let i = 0; i < n; i++) {
-      if (curr.indexOf(nums[i]) < 0) {
-        curr.push(nums[i])
-        backtracking(nums, n, curr, ans)
-        curr.pop()
-      }
+      if (used[i]) continue
+      if(i > 0 && nums[i] === nums[i - 1] && !used[i - 1]) continue
+
+      curr.push(nums[i])
+      used[i] = true
+      backtracking(nums, n, curr, ans)
+      used[i] = false
+      curr.pop()
+
     }
   }
 };
