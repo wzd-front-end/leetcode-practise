@@ -44,7 +44,7 @@ var findSubstring = function (s, words) {
   let map = {}
   let one_word = words[0].length
   let word_num = words.length
-  let all_len = one_word * word_num
+  
   for (let word of words) {
     if (map[word]) {
       map[word] += 1
@@ -67,8 +67,12 @@ var findSubstring = function (s, words) {
         tmp_map[w] ? (tmp_map[w] += 1) : (tmp_map[w] = 1)
         count++
         while (tmp_map[w] > map[w]) {
-
+          let t_w = s.substring(left, left + one_word)
+          count--
+          tmp_map[t_w] = tmp_map[t_w] - 1
+          left += one_word
         }
+        if(count === word_num) res.push(left)
       }
     }
   }
