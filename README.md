@@ -3,7 +3,7 @@
 题库：[https://leetcode-cn.com/problemset/all/](https://leetcode-cn.com/problemset/all/)
 
 ## 已刷题目
-已刷题目总数：132
+已刷题目总数：133
 
 **简单(easy)**[43]
 - 1.两数之和 【数组|哈希表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/easy/1-two-sum.js) [查看原题](https://leetcode-cn.com/problems/two-sum/)
@@ -122,12 +122,13 @@
 - 100320.数组中数字出现的次数 【* description】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/100320-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof.js) [查看原题](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)
 - 100344.股票的最大利润 【动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/100344-gu-piao-de-zui-da-li-run-lcof.js) [查看原题](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)
 
-**困难(hard)**[19]
+**困难(hard)**[20]
 - 4.寻找两个有序数组的中位数 【数组|二分查找|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/4-median-of-two-sorted-arrays.js) [查看原题](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 - 10.正则表达式匹配 【字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/10-regular-expression-matching.js) [查看原题](https://leetcode-cn.com/problems/regular-expression-matching/)
 - 23.合并K个排序链表 【堆|链表|分治算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/23-merge-k-sorted-lists.js) [查看原题](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 - 25.K 个一组翻转链表 【链表】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/25-reverse-nodes-in-k-group.js) [查看原题](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 - 30.串联所有单词的子串 【哈希表|双指针|字符串】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/30-substring-with-concatenation-of-all-words.js) [查看原题](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)
+- 32.最长有效括号 【字符串|动态规划】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/32-longest-valid-parentheses.js) [查看原题](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 - 41.缺失的第一个正数 【数组】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/41-first-missing-positive.js) [查看原题](https://leetcode-cn.com/problems/first-missing-positive/)
 - 42.接雨水 【栈|数组|双指针】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/42-trapping-rain-water.js) [查看原题](* @date 2020-04-04 23:35)
 - 44.通配符匹配 【贪心算法|字符串|动态规划|回溯算法】——[查看代码](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/44-wildcard-matching.js) [查看原题](https://leetcode-cn.com/problems/wildcard-matching/)
@@ -146,9 +147,11 @@
 
 ## 日期进度
 
-### 2020-08-19【题目数：1】
+### 2020-08-19【题目数：2】
 
 1.08:51——[647.回文子串](https://github.com/wzd-front-end/leetcode-practise/blob/master/medium/647-palindromic-substrings.js)(medium)
+
+2.13:31——[32.最长有效括号](https://github.com/wzd-front-end/leetcode-practise/blob/master/hard/32-longest-valid-parentheses.js)(hard)
 
 
 ### 2020-08-18【题目数：1】
